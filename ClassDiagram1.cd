@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="APU_Printing_Management_System.AdminEditUsersProfile">
+    <Position X="0.5" Y="0.75" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>BkAIgAAAADACyBRQBDGIleQDQgcMARJiwAIgQYBEAAg=</HashCode>
+      <FileName>AdminEditUsersProfile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APU_Printing_Management_System.AdminServiceReqReport">
+    <Position X="5.5" Y="7" Width="3.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>gEgIAAAAIDAiAAAABACABSgDAAAkhQEAAAKAQIBEAAg=</HashCode>
+      <FileName>AdminServiceReqReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APU_Printing_Management_System.AdminYearlyReports">
+    <Position X="1.75" Y="5.5" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>gBAIYqgAADCiIAQAAACSDYgyQAAEACIAAAIEQJRMREk=</HashCode>
+      <FileName>AdminYearlyReports.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APU_Printing_Management_System.CustomerDashboard" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="3" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>MhAJgIBIBDAAAQRRk26gAwCCCRQARICACCIARCBAAYk=</HashCode>
+      <FileName>CustomerDashboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APU_Printing_Management_System.CustomerHistoryPage">
+    <Position X="9.25" Y="0.75" Width="3" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>hAAAAGEhBCBASAASCBCAAYASAAAQAAIACDBAAgAEAQA=</HashCode>
+      <FileName>CustomerHistoryPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APU_Printing_Management_System.CustomerOrderPage">
+    <Position X="5.75" Y="1.5" Width="3" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>rAABQCABBCAAQBQSDIqIEYIjMDQAKAAADAAAAIQABII=</HashCode>
+      <FileName>CustomerOrderPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APU_Printing_Management_System.Job">
+    <Position X="11" Y="5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAQAAAAAAAAAAAAAAAAAAAAAAAAAQAAAABAAE=</HashCode>
+      <FileName>Job.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APU_Printing_Management_System.Login">
+    <Position X="16.5" Y="2" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAEAQAAADAAgAIACACAAAgiAAAAAAAAAAAAAAFCAAA=</HashCode>
+      <FileName>Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APU_Printing_Management_System.ManagerAssignRequest">
+    <Position X="15.25" Y="5.75" Width="3" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ICIAAABAACAAABAAAICAApADYAAIIhAEAEAAgAAAAAA=</HashCode>
+      <FileName>ManagerAssignRequest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APU_Printing_Management_System.ManagerDashboard">
+    <Position X="13.75" Y="1.25" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ICASA4AGgiwCEJQFAACGgCACQAGBYhgkACBJBQBIAQI=</HashCode>
+      <FileName>ManagerDashboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APU_Printing_Management_System.ManagerNewRequests">
+    <Position X="19.5" Y="4.5" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>IIAIAYEEgigCEJQGAACCgxACAAUAYBwkICBBxABAABI=</HashCode>
+      <FileName>ManagerNewRequests.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APU_Printing_Management_System.Profile">
+    <Position X="24" Y="3.25" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ACCAAAAAADAAgKIAAACAAgASQCeAAEgAAACEAQACAQA=</HashCode>
+      <FileName>Profile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APU_Printing_Management_System.Request">
+    <Position X="10.5" Y="9.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>FAAAAAAUAAABEAAQAQAAAAAEAAABUAAAACxACACBgAE=</HashCode>
+      <FileName>Request.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APU_Printing_Management_System.User">
+    <Position X="9.5" Y="6.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAgAAEAQAAAAAAAAAQABEIAAAAAAAAAAAAA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="APU_Printing_Management_System.WorkerDashboard" Collapsed="true">
+    <Position X="21" Y="0.5" Width="3.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>BAQtAFA1AiCQCnAgKACINyKKMEAMAQsIKhwIiihQCSA=</HashCode>
+      <FileName>WorkerDashboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

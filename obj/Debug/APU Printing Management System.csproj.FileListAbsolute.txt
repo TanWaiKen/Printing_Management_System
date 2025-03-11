@@ -1,0 +1,116 @@
+C:\Users\tanwa\Source\Repos\TanWaiKen\Project-X\bin\Debug\APU Printing Management System.exe.config
+C:\Users\tanwa\Source\Repos\TanWaiKen\Project-X\bin\Debug\APU Printing Management System.exe
+C:\Users\tanwa\Source\Repos\TanWaiKen\Project-X\bin\Debug\APU Printing Management System.pdb
+C:\Users\tanwa\Source\Repos\TanWaiKen\Project-X\obj\Debug\APU Printing Management System.csproj.AssemblyReference.cache
+C:\Users\tanwa\Source\Repos\TanWaiKen\Project-X\obj\Debug\APU_Printing_Management_System.cartPage.resources
+C:\Users\tanwa\Source\Repos\TanWaiKen\Project-X\obj\Debug\APU_Printing_Management_System.customerPage.resources
+C:\Users\tanwa\Source\Repos\TanWaiKen\Project-X\obj\Debug\APU_Printing_Management_System.Properties.Resources.resources
+C:\Users\tanwa\Source\Repos\TanWaiKen\Project-X\obj\Debug\APU Printing Management System.csproj.GenerateResource.cache
+C:\Users\tanwa\Source\Repos\TanWaiKen\Project-X\obj\Debug\APU Printing Management System.csproj.CoreCompileInputs.cache
+C:\Users\tanwa\Source\Repos\TanWaiKen\Project-X\obj\Debug\APU Printing Management System.exe
+C:\Users\tanwa\Source\Repos\TanWaiKen\Project-X\obj\Debug\APU Printing Management System.pdb
+C:\Users\tanwa\OneDrive - MSFT\TWK developer\Documents\GitHub\Project_X\Customer\obj\Debug\APU Printing Management System.csproj.AssemblyReference.cache
+C:\Users\tanwa\OneDrive - MSFT\TWK developer\Documents\GitHub\Project_X\Customer\obj\Debug\APU_Printing_Management_System.orderPage.resources
+C:\Users\tanwa\OneDrive - MSFT\TWK developer\Documents\GitHub\Project_X\Customer\obj\Debug\APU_Printing_Management_System.customerPage.resources
+C:\Users\tanwa\OneDrive - MSFT\TWK developer\Documents\GitHub\Project_X\Customer\obj\Debug\APU Printing Management System.csproj.GenerateResource.cache
+C:\Users\tanwa\OneDrive - MSFT\TWK developer\Documents\GitHub\Project_X\Customer\obj\Debug\APU_Printing_Management_System.Properties.Resources.resources
+C:\Users\tanwa\OneDrive - MSFT\TWK developer\Documents\GitHub\Project_X\Customer\obj\Debug\APU Printing Management System.csproj.CoreCompileInputs.cache
+C:\Users\tanwa\OneDrive - MSFT\TWK developer\Documents\GitHub\Project_X\Customer\bin\Debug\APU Printing Management System.exe.config
+C:\Users\tanwa\OneDrive - MSFT\TWK developer\Documents\GitHub\Project_X\Customer\bin\Debug\APU Printing Management System.exe
+C:\Users\tanwa\OneDrive - MSFT\TWK developer\Documents\GitHub\Project_X\Customer\bin\Debug\APU Printing Management System.pdb
+C:\Users\tanwa\OneDrive - MSFT\TWK developer\Documents\GitHub\Project_X\Customer\obj\Debug\APU Printing Management System.exe
+C:\Users\tanwa\OneDrive - MSFT\TWK developer\Documents\GitHub\Project_X\Customer\obj\Debug\APU Printing Management System.pdb
+C:\Users\tanwa\OneDrive - MSFT\TWK developer\Documents\GitHub\Project_X\Customer\obj\Debug\APU_Printing_Management_System.historyPage.resources
+C:\Users\tanwa\OneDrive - MSFT\TWK developer\Documents\GitHub\Project_X\Customer\obj\Debug\APU_Printing_Management_System.log_in.resources
+C:\Users\tanwa\OneDrive - MSFT\TWK developer\Documents\GitHub\Project_X\Customer\obj\Debug\APU_Printing_Management_System.profile.resources
+C:\Users\tanwa\OneDrive - MSFT\TWK developer\Documents\GitHub\Project_X\Customer\obj\Debug\APU_Printing_Management_System.worker.resources
+C:\Users\tanwa\OneDrive - MSFT\TWK developer\Documents\GitHub\Project_X\Customer\obj\Debug\APU_Printing_Management_System.ManagerAssignRequest.resources
+C:\Users\tanwa\OneDrive - MSFT\TWK developer\Documents\GitHub\Project_X\Customer\obj\Debug\APU_Printing_Management_System.ManagerDashboard.resources
+C:\Users\tanwa\OneDrive - MSFT\TWK developer\Documents\GitHub\Project_X\Customer\obj\Debug\APU_Printing_Management_System.ManagerNewRequests.resources
+C:\Users\tanwa\OneDrive - MSFT\TWK developer\Documents\GitHub\Project_X\Customer\obj\Debug\APU_Printing_Management_System.serviceReqReportTab.resources
+C:\Users\tanwa\OneDrive - MSFT\TWK developer\Documents\GitHub\Project_X\Customer\obj\Debug\APU_Printing_Management_System.usersProfileTab.resources
+C:\Users\tanwa\OneDrive - MSFT\TWK developer\Documents\GitHub\Project_X\Customer\obj\Debug\APU_Printing_Management_System.yearlyReportsTab.resources
+C:\Users\tanwa\Downloads\APU Printing System\APU Printing System\bin\Debug\APU Printing Management System.exe.config
+C:\Users\tanwa\Downloads\APU Printing System\APU Printing System\bin\Debug\APU Printing Management System.exe
+C:\Users\tanwa\Downloads\APU Printing System\APU Printing System\bin\Debug\APU Printing Management System.pdb
+C:\Users\tanwa\Downloads\APU Printing System\APU Printing System\obj\Debug\APU Printing Management System.csproj.AssemblyReference.cache
+C:\Users\tanwa\Downloads\APU Printing System\APU Printing System\obj\Debug\APU_Printing_Management_System.log_in.resources
+C:\Users\tanwa\Downloads\APU Printing System\APU Printing System\obj\Debug\APU_Printing_Management_System.ManagerAssignRequest.resources
+C:\Users\tanwa\Downloads\APU Printing System\APU Printing System\obj\Debug\APU_Printing_Management_System.ManagerDashboard.resources
+C:\Users\tanwa\Downloads\APU Printing System\APU Printing System\obj\Debug\APU_Printing_Management_System.ManagerNewRequests.resources
+C:\Users\tanwa\Downloads\APU Printing System\APU Printing System\obj\Debug\APU_Printing_Management_System.orderPage.resources
+C:\Users\tanwa\Downloads\APU Printing System\APU Printing System\obj\Debug\APU_Printing_Management_System.CustomerPage.resources
+C:\Users\tanwa\Downloads\APU Printing System\APU Printing System\obj\Debug\APU_Printing_Management_System.historyPage.resources
+C:\Users\tanwa\Downloads\APU Printing System\APU Printing System\obj\Debug\APU_Printing_Management_System.profile.resources
+C:\Users\tanwa\Downloads\APU Printing System\APU Printing System\obj\Debug\APU_Printing_Management_System.Properties.Resources.resources
+C:\Users\tanwa\Downloads\APU Printing System\APU Printing System\obj\Debug\APU_Printing_Management_System.serviceReqReportTab.resources
+C:\Users\tanwa\Downloads\APU Printing System\APU Printing System\obj\Debug\APU_Printing_Management_System.usersProfileTab.resources
+C:\Users\tanwa\Downloads\APU Printing System\APU Printing System\obj\Debug\APU_Printing_Management_System.worker.resources
+C:\Users\tanwa\Downloads\APU Printing System\APU Printing System\obj\Debug\APU_Printing_Management_System.yearlyReportsTab.resources
+C:\Users\tanwa\Downloads\APU Printing System\APU Printing System\obj\Debug\APU Printing Management System.csproj.GenerateResource.cache
+C:\Users\tanwa\Downloads\APU Printing System\APU Printing System\obj\Debug\APU Printing Management System.csproj.CoreCompileInputs.cache
+C:\Users\tanwa\Downloads\APU Printing System\APU Printing System\obj\Debug\APU Printing Management System.exe
+C:\Users\tanwa\Downloads\APU Printing System\APU Printing System\obj\Debug\APU Printing Management System.pdb
+C:\Users\tanwa\Downloads\APU Printing System\bin\Debug\APU Printing Management System.exe.config
+C:\Users\tanwa\Downloads\APU Printing System\bin\Debug\APU Printing Management System.exe
+C:\Users\tanwa\Downloads\APU Printing System\bin\Debug\APU Printing Management System.pdb
+C:\Users\tanwa\Downloads\APU Printing System\obj\Debug\APU Printing Management System.csproj.AssemblyReference.cache
+C:\Users\tanwa\Downloads\APU Printing System\obj\Debug\APU_Printing_Management_System.Login.resources
+C:\Users\tanwa\Downloads\APU Printing System\obj\Debug\APU_Printing_Management_System.ManagerAssignRequest.resources
+C:\Users\tanwa\Downloads\APU Printing System\obj\Debug\APU_Printing_Management_System.ManagerDashboard.resources
+C:\Users\tanwa\Downloads\APU Printing System\obj\Debug\APU_Printing_Management_System.ManagerNewRequests.resources
+C:\Users\tanwa\Downloads\APU Printing System\obj\Debug\APU_Printing_Management_System.CustomerOrderPage.resources
+C:\Users\tanwa\Downloads\APU Printing System\obj\Debug\APU_Printing_Management_System.CustomerDashboard.resources
+C:\Users\tanwa\Downloads\APU Printing System\obj\Debug\APU_Printing_Management_System.CustomerHistoryPage.resources
+C:\Users\tanwa\Downloads\APU Printing System\obj\Debug\APU_Printing_Management_System.Profile.resources
+C:\Users\tanwa\Downloads\APU Printing System\obj\Debug\APU_Printing_Management_System.Properties.Resources.resources
+C:\Users\tanwa\Downloads\APU Printing System\obj\Debug\APU_Printing_Management_System.AdminServiceReqReport.resources
+C:\Users\tanwa\Downloads\APU Printing System\obj\Debug\APU_Printing_Management_System.AdminEditUsersProfile.resources
+C:\Users\tanwa\Downloads\APU Printing System\obj\Debug\APU_Printing_Management_System.WorkerDashboard.resources
+C:\Users\tanwa\Downloads\APU Printing System\obj\Debug\APU_Printing_Management_System.AdminYearlyReports.resources
+C:\Users\tanwa\Downloads\APU Printing System\obj\Debug\APU Printing Management System.csproj.GenerateResource.cache
+C:\Users\tanwa\Downloads\APU Printing System\obj\Debug\APU Printing Management System.csproj.CoreCompileInputs.cache
+C:\Users\tanwa\Downloads\APU Printing System\obj\Debug\APU Printing Management System.exe
+C:\Users\tanwa\Downloads\APU Printing System\obj\Debug\APU Printing Management System.pdb
+C:\Users\luciu\Downloads\please\APU Printing System\bin\Debug\APU Printing Management System.exe.config
+C:\Users\luciu\Downloads\please\APU Printing System\bin\Debug\APU Printing Management System.exe
+C:\Users\luciu\Downloads\please\APU Printing System\bin\Debug\APU Printing Management System.pdb
+C:\Users\luciu\Downloads\please\APU Printing System\obj\Debug\APU Printing Management System.csproj.AssemblyReference.cache
+C:\Users\luciu\Downloads\please\APU Printing System\obj\Debug\APU_Printing_Management_System.Login.resources
+C:\Users\luciu\Downloads\please\APU Printing System\obj\Debug\APU_Printing_Management_System.ManagerAssignRequest.resources
+C:\Users\luciu\Downloads\please\APU Printing System\obj\Debug\APU_Printing_Management_System.ManagerDashboard.resources
+C:\Users\luciu\Downloads\please\APU Printing System\obj\Debug\APU_Printing_Management_System.ManagerNewRequests.resources
+C:\Users\luciu\Downloads\please\APU Printing System\obj\Debug\APU_Printing_Management_System.CustomerOrderPage.resources
+C:\Users\luciu\Downloads\please\APU Printing System\obj\Debug\APU_Printing_Management_System.CustomerDashboard.resources
+C:\Users\luciu\Downloads\please\APU Printing System\obj\Debug\APU_Printing_Management_System.CustomerHistoryPage.resources
+C:\Users\luciu\Downloads\please\APU Printing System\obj\Debug\APU_Printing_Management_System.Profile.resources
+C:\Users\luciu\Downloads\please\APU Printing System\obj\Debug\APU_Printing_Management_System.Properties.Resources.resources
+C:\Users\luciu\Downloads\please\APU Printing System\obj\Debug\APU_Printing_Management_System.AdminServiceReqReport.resources
+C:\Users\luciu\Downloads\please\APU Printing System\obj\Debug\APU_Printing_Management_System.AdminEditUsersProfile.resources
+C:\Users\luciu\Downloads\please\APU Printing System\obj\Debug\APU_Printing_Management_System.WorkerDashboard.resources
+C:\Users\luciu\Downloads\please\APU Printing System\obj\Debug\APU_Printing_Management_System.AdminYearlyReports.resources
+C:\Users\luciu\Downloads\please\APU Printing System\obj\Debug\APU Printing Management System.csproj.GenerateResource.cache
+C:\Users\luciu\Downloads\please\APU Printing System\obj\Debug\APU Printing Management System.csproj.CoreCompileInputs.cache
+C:\Users\luciu\Downloads\please\APU Printing System\obj\Debug\APU Printing Management System.exe
+C:\Users\luciu\Downloads\please\APU Printing System\obj\Debug\APU Printing Management System.pdb
+C:\Users\tanwa\Downloads\please\please\APU Printing System\obj\Debug\APU Printing Management System.csproj.AssemblyReference.cache
+C:\Users\tanwa\Downloads\please\please\APU Printing System\obj\Debug\APU_Printing_Management_System.Login.resources
+C:\Users\tanwa\Downloads\please\please\APU Printing System\obj\Debug\APU_Printing_Management_System.ManagerAssignRequest.resources
+C:\Users\tanwa\Downloads\please\please\APU Printing System\obj\Debug\APU_Printing_Management_System.ManagerDashboard.resources
+C:\Users\tanwa\Downloads\please\please\APU Printing System\obj\Debug\APU_Printing_Management_System.ManagerNewRequests.resources
+C:\Users\tanwa\Downloads\please\please\APU Printing System\obj\Debug\APU_Printing_Management_System.CustomerOrderPage.resources
+C:\Users\tanwa\Downloads\please\please\APU Printing System\obj\Debug\APU_Printing_Management_System.CustomerDashboard.resources
+C:\Users\tanwa\Downloads\please\please\APU Printing System\obj\Debug\APU_Printing_Management_System.CustomerHistoryPage.resources
+C:\Users\tanwa\Downloads\please\please\APU Printing System\obj\Debug\APU_Printing_Management_System.Profile.resources
+C:\Users\tanwa\Downloads\please\please\APU Printing System\obj\Debug\APU_Printing_Management_System.Properties.Resources.resources
+C:\Users\tanwa\Downloads\please\please\APU Printing System\obj\Debug\APU_Printing_Management_System.AdminServiceReqReport.resources
+C:\Users\tanwa\Downloads\please\please\APU Printing System\obj\Debug\APU_Printing_Management_System.AdminEditUsersProfile.resources
+C:\Users\tanwa\Downloads\please\please\APU Printing System\obj\Debug\APU_Printing_Management_System.WorkerDashboard.resources
+C:\Users\tanwa\Downloads\please\please\APU Printing System\obj\Debug\APU_Printing_Management_System.AdminYearlyReports.resources
+C:\Users\tanwa\Downloads\please\please\APU Printing System\obj\Debug\APU Printing Management System.csproj.GenerateResource.cache
+C:\Users\tanwa\Downloads\please\please\APU Printing System\obj\Debug\APU Printing Management System.csproj.CoreCompileInputs.cache
+C:\Users\tanwa\Downloads\please\please\APU Printing System\obj\Debug\APU Printing Management System.exe
+C:\Users\tanwa\Downloads\please\please\APU Printing System\obj\Debug\APU Printing Management System.pdb
+C:\Users\tanwa\Downloads\please\please\APU Printing System\bin\Debug\APU Printing Management System.exe.config
+C:\Users\tanwa\Downloads\please\please\APU Printing System\bin\Debug\APU Printing Management System.exe
+C:\Users\tanwa\Downloads\please\please\APU Printing System\bin\Debug\APU Printing Management System.pdb
